@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1520994216 source:c:\users\luis\desktop\projsc\c-cpp-projects\automata\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
